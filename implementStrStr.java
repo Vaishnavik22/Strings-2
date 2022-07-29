@@ -32,3 +32,6 @@ class Solution {
         return -1;
     }
 }
+
+// Approach 2: KMP algorithm
+// TODO
